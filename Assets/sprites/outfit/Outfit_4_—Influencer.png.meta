@@ -1,0 +1,1094 @@
+fileFormatVersion: 2
+guid: 88010f2cb00d3ea43aeed9b7e764659d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2600491716436220657
+    second: "Outfit_4_\u2014Influencer_0"
+  - first:
+      213: -7806459550998566648
+    second: "Outfit_4_\u2014Influencer_1"
+  - first:
+      213: 5733335870305115223
+    second: "Outfit_4_\u2014Influencer_2"
+  - first:
+      213: -4653463784201373423
+    second: "Outfit_4_\u2014Influencer_3"
+  - first:
+      213: 1426727412050766496
+    second: "Outfit_4_\u2014Influencer_4"
+  - first:
+      213: -1387329424118470056
+    second: "Outfit_4_\u2014Influencer_5"
+  - first:
+      213: 1254644693240376684
+    second: "Outfit_4_\u2014Influencer_6"
+  - first:
+      213: -7692382687202243233
+    second: "Outfit_4_\u2014Influencer_7"
+  - first:
+      213: -7913628055151609280
+    second: "Outfit_4_\u2014Influencer_8"
+  - first:
+      213: 2876984926578772843
+    second: "Outfit_4_\u2014Influencer_9"
+  - first:
+      213: 5325970044112054806
+    second: "Outfit_4_\u2014Influencer_10"
+  - first:
+      213: -7365280179034082527
+    second: "Outfit_4_\u2014Influencer_11"
+  - first:
+      213: -5803744858162968283
+    second: "Outfit_4_\u2014Influencer_12"
+  - first:
+      213: 25380012216446030
+    second: "Outfit_4_\u2014Influencer_13"
+  - first:
+      213: -2803755800671904646
+    second: "Outfit_4_\u2014Influencer_14"
+  - first:
+      213: 2703966311144476699
+    second: "Outfit_4_\u2014Influencer_15"
+  - first:
+      213: 773668703473932384
+    second: "Outfit_4_\u2014Influencer_16"
+  - first:
+      213: -9113296945276062810
+    second: "Outfit_4_\u2014Influencer_17"
+  - first:
+      213: -6009584121044723145
+    second: "Outfit_4_\u2014Influencer_18"
+  - first:
+      213: 1964852120600081275
+    second: "Outfit_4_\u2014Influencer_19"
+  - first:
+      213: 819063999257523415
+    second: "Outfit_4_\u2014Influencer_20"
+  - first:
+      213: 4389695439310594633
+    second: "Outfit_4_\u2014Influencer_21"
+  - first:
+      213: 7027312942186507414
+    second: "Outfit_4_\u2014Influencer_22"
+  - first:
+      213: -5996781567271271035
+    second: "Outfit_4_\u2014Influencer_23"
+  - first:
+      213: 7860917882600597685
+    second: "Outfit_4_\u2014Influencer_24"
+  - first:
+      213: 8579322430820551631
+    second: "Outfit_4_\u2014Influencer_25"
+  - first:
+      213: -1000514344118318154
+    second: "Outfit_4_\u2014Influencer_26"
+  - first:
+      213: 5611329088678848579
+    second: "Outfit_4_\u2014Influencer_27"
+  - first:
+      213: 3130864409140864047
+    second: "Outfit_4_\u2014Influencer_28"
+  - first:
+      213: 9071787553005215411
+    second: "Outfit_4_\u2014Influencer_29"
+  - first:
+      213: -4413393833290890756
+    second: "Outfit_4_\u2014Influencer_30"
+  - first:
+      213: -469483629112935145
+    second: "Outfit_4_\u2014Influencer_31"
+  - first:
+      213: 8380811441552615064
+    second: "Outfit_4_\u2014Influencer_32"
+  - first:
+      213: -3303949405826716186
+    second: "Outfit_4_\u2014Influencer_33"
+  - first:
+      213: -3503417907237249414
+    second: "Outfit_4_\u2014Influencer_34"
+  - first:
+      213: 7531770770778733845
+    second: "Outfit_4_\u2014Influencer_35"
+  - first:
+      213: -164506869964575351
+    second: "Outfit_4_\u2014Influencer_36"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_0"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1067
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f052978df8239ebd0800000000000000
+      internalID: -2600491716436220657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_1"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 996
+        width: 28
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80966451662e9a390800000000000000
+      internalID: -7806459550998566648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_2"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 100
+        width: 409
+        height: 974
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c9a87f896e09f40800000000000000
+      internalID: 5733335870305115223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_3"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1069
+        width: 369
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1193887e7539b6fb0800000000000000
+      internalID: -4653463784201373423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_4"
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1052
+        width: 71
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa299aa501ccc310800000000000000
+      internalID: 1426727412050766496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_5"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1068
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aa8f83d373fbce0800000000000000
+      internalID: -1387329424118470056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_6"
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1037
+        width: 108
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6debeb73b4696110800000000000000
+      internalID: 1254644693240376684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_7"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 937
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d02f4b3ba2f3590800000000000000
+      internalID: -7692382687202243233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_8"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 941
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a7f1846352d2290800000000000000
+      internalID: -7913628055151609280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_9"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 872
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b81ec3c8a1de720800000000000000
+      internalID: 2876984926578772843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_10"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 907
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61aaba37985a9e940800000000000000
+      internalID: 5325970044112054806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_11"
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 909
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123b27933b449c990800000000000000
+      internalID: -7365280179034082527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_12"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 859
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52942321dc4f47fa0800000000000000
+      internalID: -5803744858162968283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_13"
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 864
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c6e849cfa2a5000800000000000000
+      internalID: 25380012216446030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_14"
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 813
+        width: 185
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c920844fe0719d0800000000000000
+      internalID: -2803755800671904646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_15"
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 821
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10d364a80b668520800000000000000
+      internalID: 2703966311144476699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_16"
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 802
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0689664369f9cba00800000000000000
+      internalID: 773668703473932384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_17"
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 807
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3fa2c66b0178180800000000000000
+      internalID: -9113296945276062810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_18"
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 825
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a1d41051ba99ca0800000000000000
+      internalID: -6009584121044723145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_19"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 772
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b737a8ce79e844b10800000000000000
+      internalID: 1964852120600081275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_20"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 742
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d43e042e56ed5b00800000000000000
+      internalID: 819063999257523415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_21"
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 786
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942a2449eb45bec30800000000000000
+      internalID: 4389695439310594633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_22"
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 723
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c288c73e7068160800000000000000
+      internalID: 7027312942186507414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_23"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 702
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5858f27dfe627cca0800000000000000
+      internalID: -5996781567271271035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_24"
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 713
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8ace05a27971d60800000000000000
+      internalID: 7860917882600597685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_25"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 686
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb899eab40ef0770800000000000000
+      internalID: 8579322430820551631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_26"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 692
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb052641857d12f0800000000000000
+      internalID: -1000514344118318154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_27"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 672
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348e48873127fdd40800000000000000
+      internalID: 5611329088678848579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_28"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 663
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2421c29790137b20800000000000000
+      internalID: 3130864409140864047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_29"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 655
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be9fae07b675ed70800000000000000
+      internalID: 9071787553005215411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_30"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 45
+        width: 124
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf10cc811b970c2c0800000000000000
+      internalID: -4413393833290890756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_31"
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dbcd2702f0c79f0800000000000000
+      internalID: -469483629112935145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_32"
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 89
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896e5474a9f9e4470800000000000000
+      internalID: 8380811441552615064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_33"
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 47
+        width: 110
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ede5dd35830622d0800000000000000
+      internalID: -3303949405826716186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_34"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 88
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e916ba9fb516fc0800000000000000
+      internalID: -3503417907237249414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_35"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 90
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dbfe96c99368860800000000000000
+      internalID: 7531770770778733845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Outfit_4_\u2014Influencer_36"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 75
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d66a49fdd87bdf0800000000000000
+      internalID: -164506869964575351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Outfit_4_\u2014Influencer_0": -2600491716436220657
+      "Outfit_4_\u2014Influencer_1": -7806459550998566648
+      "Outfit_4_\u2014Influencer_10": 5325970044112054806
+      "Outfit_4_\u2014Influencer_11": -7365280179034082527
+      "Outfit_4_\u2014Influencer_12": -5803744858162968283
+      "Outfit_4_\u2014Influencer_13": 25380012216446030
+      "Outfit_4_\u2014Influencer_14": -2803755800671904646
+      "Outfit_4_\u2014Influencer_15": 2703966311144476699
+      "Outfit_4_\u2014Influencer_16": 773668703473932384
+      "Outfit_4_\u2014Influencer_17": -9113296945276062810
+      "Outfit_4_\u2014Influencer_18": -6009584121044723145
+      "Outfit_4_\u2014Influencer_19": 1964852120600081275
+      "Outfit_4_\u2014Influencer_2": 5733335870305115223
+      "Outfit_4_\u2014Influencer_20": 819063999257523415
+      "Outfit_4_\u2014Influencer_21": 4389695439310594633
+      "Outfit_4_\u2014Influencer_22": 7027312942186507414
+      "Outfit_4_\u2014Influencer_23": -5996781567271271035
+      "Outfit_4_\u2014Influencer_24": 7860917882600597685
+      "Outfit_4_\u2014Influencer_25": 8579322430820551631
+      "Outfit_4_\u2014Influencer_26": -1000514344118318154
+      "Outfit_4_\u2014Influencer_27": 5611329088678848579
+      "Outfit_4_\u2014Influencer_28": 3130864409140864047
+      "Outfit_4_\u2014Influencer_29": 9071787553005215411
+      "Outfit_4_\u2014Influencer_3": -4653463784201373423
+      "Outfit_4_\u2014Influencer_30": -4413393833290890756
+      "Outfit_4_\u2014Influencer_31": -469483629112935145
+      "Outfit_4_\u2014Influencer_32": 8380811441552615064
+      "Outfit_4_\u2014Influencer_33": -3303949405826716186
+      "Outfit_4_\u2014Influencer_34": -3503417907237249414
+      "Outfit_4_\u2014Influencer_35": 7531770770778733845
+      "Outfit_4_\u2014Influencer_36": -164506869964575351
+      "Outfit_4_\u2014Influencer_4": 1426727412050766496
+      "Outfit_4_\u2014Influencer_5": -1387329424118470056
+      "Outfit_4_\u2014Influencer_6": 1254644693240376684
+      "Outfit_4_\u2014Influencer_7": -7692382687202243233
+      "Outfit_4_\u2014Influencer_8": -7913628055151609280
+      "Outfit_4_\u2014Influencer_9": 2876984926578772843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

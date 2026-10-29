@@ -1,0 +1,13 @@
+spacebar during text makes it flash on IntroText Scene
+
+Add light grey (click or spacebar) text to bottom right on dialogue Prefab
+
+Get nina to start making assets
+-characters
+-outfits
+-backgrounds
+-animations?
+-icons for buttons
+
+ask nina what she wants for ui
+-could do sliders instead of buttons
